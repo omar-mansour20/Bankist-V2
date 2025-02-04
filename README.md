@@ -30,8 +30,6 @@ This is a simple banking application built with HTML, CSS, and JavaScript.  It a
 |---|---|
 | js | 1111 |
 | jd | 2222 |
-| stw | 3333 |
-| ss | 4444 |
 
 ## 🤝 Contributing
 
